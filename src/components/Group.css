@@ -1,0 +1,29 @@
+.group-item {
+    padding: 10px;
+    border-bottom: solid 1px;
+    border-color: #D3D3D3;
+}
+
+.group-item .group-icon {
+    display: inline-block;
+    vertical-align: middle;
+    height: 25px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+
+}
+
+.group-item .group-text {
+    display: inline-block;
+    height: 25px;
+}
+
+.group-text .group-name {
+    position: relative;
+    display: block;
+}
+
+.group-text .completion-status {
+    position: relative;
+    display: block;
+}
